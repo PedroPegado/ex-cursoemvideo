@@ -1,3 +1,5 @@
+print('===== EX 004 =====')
+
 x = input('Digite algo: ')
 
 print('O tipo primitivo desse valor é',(type(x)))
