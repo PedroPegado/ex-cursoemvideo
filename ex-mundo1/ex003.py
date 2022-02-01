@@ -1,3 +1,5 @@
+print('===== EX 003 =====')
+
 x = int(input('digite um número: '))
 y = int(input('digite outro número: '))
 
