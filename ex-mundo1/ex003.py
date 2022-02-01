@@ -5,4 +5,4 @@ y = int(input('digite outro número: '))
 
 z = x + y
 
-print('A soma entre {} e {} vale {}'.format(x, y, z))
+print(f'A soma entre {x} e {y} vale {z}')
