@@ -1,4 +1,4 @@
-print('===== EX 004 =====')
+print('\033[1;35m===== EX 004 =====\033[m')
 
 x = input('Digite algo: ')
 
