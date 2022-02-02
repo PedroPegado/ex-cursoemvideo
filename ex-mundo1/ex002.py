@@ -1,4 +1,7 @@
 print('===== EX 002 =====')
 
-nome = input('Digite seu nome: ')
-print(f'É um prazer te conhecer, {nome}!')
+dia = int(input('Em que dia você nasceu? ')
+mes = int(input('Em que mês você nasceu? ')
+ano = int(input('Em que ano você nasceu? ')
+          
+print(f'Você nasceu no dia {dia} de {mes} do ano de {ano}
