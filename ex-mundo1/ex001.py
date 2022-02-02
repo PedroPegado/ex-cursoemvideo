@@ -1,5 +1,5 @@
 print('===== EX 001 =====')
 
-ola = 'Olá, mundo!'
+nome = input('Digite seu nome: ')
 
-print(ola)
+print(f'É um prazer te conhecer, {nome}!')
