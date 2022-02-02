@@ -1,4 +1,4 @@
-print('===== EX 002 =====')
+print('\033[1;35m===== EX 002 =====\033[m')
 
 dia = int(input('Em que dia você nasceu? ')
 mes = int(input('Em que mês você nasceu? ')
