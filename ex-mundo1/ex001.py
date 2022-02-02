@@ -1,4 +1,4 @@
-print('\033[1;36m===== EX 001 =====\033[m')
+print('\033[1;35m===== EX 001 =====\033[m')
 
 nome = input('Digite seu nome: ')
 
