@@ -18,7 +18,7 @@ print('='*50)
 print('CALCULADORA DE RAIO'.center(50))
 print('='*50)
 
-def areacirc(raio=0):
+def areacirc():
     raio = float(input('\n\033[1;34mDigite o raio do seu círculo(em cm): \033[m'))
         
     area = 3.14*(raio**2)
@@ -36,8 +36,8 @@ def areacirc(raio=0):
         print(f'\n{linha}')
         convert = int(input("""\n\033[1;31mQuer converter sua área para metros quadrados?
 
-[ 1 ] Sim
-[ 2 ] Não
+    [ 1 ] Sim
+    [ 2 ] Não
 
 Digite o número de acordo com sua opção: \033[m"""))
         print(f'\n{linha}')
