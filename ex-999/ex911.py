@@ -42,7 +42,7 @@ PREÇO: {preco_lata}R$''')
 PREÇO: {preco_galoes}R$''')
         
         elif escolha == 3:
-            print(f'''LATAS DE 18 LITROS = {math.trunc(latas_mistas18)}
+            print(f'''LATAS DE 18 LITROS: {math.trunc(latas_mistas18)}
 GALÕES DE 3,6 LITROS: {math.ceil(latas_mistas36)}
 VALOR TOTAL(com 10% de quebra): {total_mistos}''')
 
